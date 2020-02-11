@@ -1,1 +1,1 @@
-# PavelKriv
+# rsschool-cv
